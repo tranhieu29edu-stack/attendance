@@ -10,12 +10,18 @@
       "duration_str": "0:01:56",
       "is_paid": false,
       "payment_id": null
+    },
+    {
+      "name": "Hieu",
+      "job": "Mẫu",
+      "date": "2026-05-07",
+      "start": "16:57:26",
+      "stop": "16:57:37",
+      "duration_seconds": 11,
+      "duration_str": "0:00:11",
+      "is_paid": false,
+      "payment_id": null
     }
   ],
-  "active_sessions": {
-    "Hieu": {
-      "start_time": "2026-05-07T16:57:26.296387",
-      "job": "Mẫu"
-    }
-  }
+  "active_sessions": {}
 }
