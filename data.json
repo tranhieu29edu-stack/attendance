@@ -21,12 +21,18 @@
       "duration_str": "0:00:11",
       "is_paid": false,
       "payment_id": null
+    },
+    {
+      "name": "Hieu",
+      "job": "dạy học",
+      "date": "2026-05-07",
+      "start": "22:57:28",
+      "stop": "23:08:48",
+      "duration_seconds": 680,
+      "duration_str": "0:11:20",
+      "is_paid": false,
+      "payment_id": null
     }
   ],
-  "active_sessions": {
-    "Hieu": {
-      "start_time": "2026-05-07T22:57:28.352952",
-      "job": "dạy học"
-    }
-  }
+  "active_sessions": {}
 }
