@@ -1,9 +1,16 @@
 {
-  "logs": [],
-  "active_sessions": {
-    "Hieu": {
-      "start_time": "2026-05-07T16:53:10.140589",
-      "job": "day hoc"
+  "logs": [
+    {
+      "name": "Hieu",
+      "job": "day hoc",
+      "date": "2026-05-07",
+      "start": "16:53:10",
+      "stop": "16:55:06",
+      "duration_seconds": 116,
+      "duration_str": "0:01:56",
+      "is_paid": false,
+      "payment_id": null
     }
-  }
+  ],
+  "active_sessions": {}
 }
